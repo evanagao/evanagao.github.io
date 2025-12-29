@@ -1,1 +1,1 @@
-gem "jekyll-theme-persephone"
+gem "jekyll-remote-theme"
