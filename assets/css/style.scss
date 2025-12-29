@@ -19,21 +19,29 @@ a {
   font-size: inherit !important;
 }
 
-/* Fix mobile scrolling */
-html {
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-
-body {
-  overflow-x: hidden;
-  min-height: 100vh;
-  height: auto;
+/* Fix extra white space on mobile */
+html, body {
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
 .post__wrapper {
-  min-height: auto;
-  padding-bottom: 2rem;
+  min-height: 0 !important;
+  height: auto !important;
+  padding-bottom: 1rem;
+}
+
+main {
+  min-height: 0 !important;
+  height: auto !important;
+}
+
+body {
+  min-height: 0 !important;
+}
+
+/* Debug - shows borders around everything */
+* {
+  outline: 1px solid red !important;
 }
