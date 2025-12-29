@@ -41,7 +41,19 @@ body {
   min-height: 0 !important;
 }
 
-/* Debug - shows borders around everything */
+/* Very visible debug borders */
 * {
-  outline: 1px solid red !important;
+  outline: 3px solid red !important;
+}
+
+body {
+  background: yellow !important;
+}
+
+.post__wrapper {
+  background: lightblue !important;
+}
+
+main {
+  background: lightgreen !important;
 }
