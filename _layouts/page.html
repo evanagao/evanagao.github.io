@@ -1,6 +1,25 @@
 ---
 layout: default
 ---
+<style>
+.content a,
+.post__content a,
+.content a:link,
+.content a:visited,
+.content a:hover,
+.content a:active {
+  font-size: 1em !important;
+}
+</style>
+{%- include header.html -%}
+<main class="post__wrapper">
+  {%- include header_nav.html -%}
+  <article class="post">
+    <div class="post__content content">
+      {{ content | img_prefix }}
+    </div>
+  </article>
+
 {%- include header.html -%}
 <main class="post__wrapper">
   {%- include header_nav.html -%}
