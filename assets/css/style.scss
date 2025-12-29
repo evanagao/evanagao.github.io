@@ -5,23 +5,6 @@ footer {
   display: none !important;
 }
 
-a,
-a:link,
-a:visited,
-a:hover,
-a:active {
+.content a {
   font-size: 1em !important;
-  font-size: inherit !important;
-}
-
-.post__content a,
-.content a,
-.post a,
-article a,
-main a {
-  font-size: 1em !important;
-}
-
-p a {
-  font-size: inherit !important;
 }
