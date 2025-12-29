@@ -48,4 +48,5 @@ title: About
 ### EDUCATION
 
 Guilford College, Greensboro, North Carolina
+
 B.A. in Sociology, May 2008
