@@ -4,3 +4,12 @@
 footer {
   display: none !important;
 }
+
+a {
+  font-size: inherit !important;
+}
+
+.post__content a,
+.content a {
+  font-size: inherit !important;
+}
