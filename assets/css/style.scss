@@ -18,3 +18,33 @@ footer {
 a {
   font-size: inherit !important;
 }
+---
+---
+
+footer {
+  display: none !important;
+}
+
+.content a,
+.post__content a,
+.content a:link,
+.content a:visited,
+.content a:hover,
+.content a:active {
+  font-size: 1em !important;
+}
+
+/* Fix mobile scrolling */
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+body {
+  min-height: 100vh;
+  height: auto;
+}
+
+main {
+  padding-bottom: 2rem;
+}
