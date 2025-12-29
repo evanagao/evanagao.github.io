@@ -19,41 +19,35 @@ a {
   font-size: inherit !important;
 }
 
-/* Fix extra white space on mobile */
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.post__wrapper {
-  min-height: 0 !important;
-  height: auto !important;
-  padding-bottom: 1rem;
-}
-
-main {
-  min-height: 0 !important;
+/* Aggressive fix for mobile white space */
+html {
   height: auto !important;
 }
 
 body {
+  height: auto !important;
   min-height: 0 !important;
+  max-height: none !important;
 }
 
-/* Very visible debug borders */
-* {
-  outline: 3px solid red !important;
+.post__wrapper,
+main,
+.page-content,
+.wrapper {
+  min-height: 0 !important;
+  height: auto !important;
+  max-height: none !important;
 }
 
-body {
-  background: yellow !important;
-}
-
-.post__wrapper {
-  background: lightblue !important;
-}
-
-main {
-  background: lightgreen !important;
+/* Specifically for mobile */
+@media screen and (max-width: 768px) {
+  body, html {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  
+  .post__wrapper {
+    min-height: 0 !important;
+    padding-bottom: 2rem;
+  }
 }
