@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-# About
+**9-5 WORK** 
 
-9-5 WORK 
+<br>
 
 2020 - Present: Creative Director, [IC](https://www.interruptingcriminalization.com/)
 
@@ -17,13 +17,19 @@ title: About
 
 2009 - 2013: Paralegal, [L&L](https://loevy.com/)
 
-SAMPLE PROJECTS
+<br>
+
+**SAMPLE PROJECTS**
 
 [One Million Experiments](https://millionexperiments.com/)
 
 [A History of Transformative Justice](https://hub.abolitionisthorizons.com/timeline)
 
-5-9 WORK
+<br>
+
+**5-9 WORK**
+
+<br>
 
 2024-Present: [Dissenters](https://wearedissenters.org/)
 
@@ -37,7 +43,9 @@ SAMPLE PROJECTS
 
 2011 - 2012: [CFS](http://chicagofreedomschool.org/)
 
-EDUCATION
+<br>
+
+**EDUCATION**
 
 Guilford College, Greensboro, North Carolina
 B.A. in Sociology, May 2008
