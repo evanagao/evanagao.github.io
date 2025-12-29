@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**9-5 WORK** 
+###**9-5 WORK** 
 
 <br>
 
@@ -19,7 +19,7 @@ title: About
 
 <br>
 
-**SAMPLE PROJECTS**
+###**SAMPLE PROJECTS**
 
 [One Million Experiments](https://millionexperiments.com/)
 
@@ -27,7 +27,7 @@ title: About
 
 <br>
 
-**5-9 WORK**
+###**5-9 WORK**
 
 <br>
 
@@ -45,7 +45,7 @@ title: About
 
 <br>
 
-**EDUCATION**
+###**EDUCATION**
 
 Guilford College, Greensboro, North Carolina
 B.A. in Sociology, May 2008
