@@ -1,9 +1,9 @@
 ---
-layout: home
-title: Home
+layout: page
+title: About
 ---
 
-# Welcome to My Website
+# About
 
 9-5 WORK 
 
